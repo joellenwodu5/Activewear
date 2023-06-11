@@ -29,7 +29,7 @@ No inventory management: The dropshipper doesn't need to handle or store invento
 Wide product selection: Dropshipping allows for a wide range of products to be offered without the need to physically stock them. The dropshipper can choose from numerous suppliers or manufacturers and offer diverse product options to customers.
 Flexibility and scalability: Dropshipping businesses can easily scale up or down based on demand, as they are not limited by inventory. This flexibility allows for quick expansion or adjustment of the product catalog.
 
-
+![](https://leemecshop.wixsite.com/leemec)
 
 ```
 {{<box title="website">}}
