@@ -9,16 +9,11 @@ footnotes = "Creating a dropshipping website using Wix.com is a straightforward 
 +++
 # Creating a successful Dropshipping Website
 
-
 ### This Article will educate you on what dropshipping is, its benefits, and how to create a successful dropshipping website.
 
 
-{{<Dropshipping is a business model in which an online retailer (the dropshipper) sells products to customers without stocking or handling the inventory. Instead, when a customer places an order, the dropshipper purchases the products directly from a third-party supplier or manufacturer, who then ships the products directly to the customer's doorstep.>}}
-
 
 Dropshipping is a business model in which an online retailer (the dropshipper) sells products to customers without stocking or handling the inventory. Instead, when a customer places an order, the dropshipper purchases the products directly from a third-party supplier or manufacturer, who then ships the products directly to the customer's doorstep.
-
-
 
 Here's how the dropshipping process typically works:
 The dropshipper sets up an online store or website, showcasing products from various suppliers or manufacturers. The dropshipper may also choose to list these products on e-commerce platforms like Shopify, Aliexpress, or Amazon.
@@ -36,10 +31,8 @@ Flexibility and scalability: Dropshipping businesses can easily scale up or down
 
 
 
-
+```
 {{<box title="website">}}
 https://leemecshop.wixsite.com/leemec 
-so kann die Box ausgeklappt werden.
 {{</box>}}
-
-
+```
