@@ -38,7 +38,8 @@ Flexibility and scalability: Dropshipping businesses can easily scale up or down
 
 
 {{<box title="website">}}
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.
+https://leemecshop.wixsite.com/leemec 
+so kann die Box ausgeklappt werden.
 {{</box>}}
 
 
